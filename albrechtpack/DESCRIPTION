@@ -1,0 +1,12 @@
+Package: albrechtpack
+Type: Package
+Title: Takes a vector and returns data for the input vector
+Version: 0.1.0
+Author: Austin Albrecht
+Maintainer: Austin Albrecht <austin.albrecht0@gmail.com>
+Description: Takes a vector and returns list of the following, median range, vector length and the vector value squared and cubed.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:stats
